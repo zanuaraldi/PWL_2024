@@ -12,7 +12,7 @@ use Illuminate\Support\Facades\Route;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
-
+// PERTEMUAN 1 - PRAKTIKUM 1
 Route::get('/', function () {
     return 'Selamat Datang';
 });
